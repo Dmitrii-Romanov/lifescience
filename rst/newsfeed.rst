@@ -7,6 +7,25 @@ News
     newsfeed
     release-notes/index
 
+Miew 0.11.0 released
+-------------------------
+
+*26 August 2024*
+
+We would like to introduce a new 0.11.0 release of Miew.
+
+* |Miew_0_11_0_notes|
+
+* |Miew_0_11_0_demo|
+
+.. |Miew_0_11_0_notes| raw:: html
+
+   <a href="https://github.com/epam/miew/releases/tag/v0.11.0" target="_blank">Release Notes</a>
+
+.. |Miew_0_11_0_demo| raw:: html
+
+   <a href="https://miew.app" target="_blank">Demo</a>
+
 Indigo and Bingo 1.20.0 released
 --------------------------------
 
